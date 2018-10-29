@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "promise-polyfill": "^6.0.2",
-    "url-polyfill": "github:webcomponents/URL",
+    "url-polyfill": "^1.0.13",
     "whatwg-fetch": "^2.0.1"
   },
   "devDependencies": {
